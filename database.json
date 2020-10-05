@@ -1,0 +1,28 @@
+{
+	"table": "users",
+	"rows":
+	[
+		{
+			"id": 1,
+			"username": "solomonraj11@gmail.com",
+			"password": "qwerty123",
+			"created_at": "2020-10-05 01:48:44",
+			"phn": 99999999,
+			"dob": "1999-01-01",
+			"state": "Telangana",
+			"city": "Hyderabad",
+			"name": "Solomon Raj"
+		},
+		{
+			"id": 7,
+			"username": "turbozed11@gmail.com",
+			"password": "password123",
+			"created_at": "2020-10-05 08:58:07",
+			"phn": 2147483647,
+			"dob": "2020-09-17",
+			"state": "Telangana",
+			"city": "Hyd",
+			"name": "Solomon"
+		}
+	]
+}
